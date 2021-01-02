@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/ben/.arduino15/packages/stm32duino/tools/**",
+                "/home/ben/Documents/coding/sketches/libraries/**",
+                "/home/ben/Downloads/arduino-1.8.12/libraries/**",
+                "/home/ben/.arduino15/packages/stm32duino/hardware/STM32F1/2020.10.21/**"
+            ],
+            "forcedInclude": [],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
