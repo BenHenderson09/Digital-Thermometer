@@ -8,5 +8,5 @@ the ability to toggle the temperature unit.
 - A DS18B20 module is used to measure the temperature. 
 - The temperature is displayed on a 16x2 LCD.
 - The unit of temperature can be toggled with a switch to either Celsius or Fahrenheit.
-- An STM32F103C "Blue Pill" development board manages the componenets.
+- An STM32F103C8 "Blue Pill" development board manages the components.
 - A lithium ion battery powers the device.
