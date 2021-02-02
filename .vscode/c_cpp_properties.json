@@ -6,7 +6,8 @@
                 "/home/ben/.arduino15/packages/stm32duino/tools/**",
                 "/home/ben/Documents/coding/sketches/libraries/**",
                 "/home/ben/Downloads/arduino-1.8.12/libraries/**",
-                "/home/ben/.arduino15/packages/stm32duino/hardware/STM32F1/2020.10.21/**"
+                "/home/ben/.arduino15/packages/stm32duino/hardware/STM32F1/2020.10.21/**",
+                "/opt/arduino-1.8.13/libraries/**"
             ],
             "forcedInclude": [],
             "defines": [

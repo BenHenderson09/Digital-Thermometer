@@ -1,3 +1,6 @@
+#ifndef PIN_CONSTANTS_HPP
+#define PIN_CONSTANTS_HPP
+
 namespace PinConstants {
     // Thermometer module
     const int thermometerAnalogueInputPin{PA1};
@@ -13,3 +16,5 @@ namespace PinConstants {
         d6Pin{PC13},
         d7Pin{PC14};
 }
+
+#endif

@@ -1,5 +1,5 @@
-#ifndef TEMPERATURE_UNIT
-#define TEMPERATURE_UNIT
+#ifndef TEMPERATURE_UNIT_HPP
+#define TEMPERATURE_UNIT_HPP
 
 enum TemperatureUnit {
     celsius,
